@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AbhirajAssign01</string>
+    <string name="full_name">Abhiraj Singh Parihar</string>
+    <string name="Goback">Going Back</string>
+    <string name="intro">This is Abhiraj Singh Parihar\' lease or rent app. Please press enter to select house of your selection</string>
+    <string name="apartment">Apartments</string>
+    <string name="address_3257839_detach">Address: 3257839 detach</string>
+    <string name="address_234234_detach">Address: 234234 detach</string>
+    <string name="address_1234431_detach">Address: 1234431 detach</string>
+    <string name="price_1000_month">Price: 1000/month</string>
+    <string name="price_2000_month">Price: 2000/month</string>
+    <string name="price_3000_month">Price: 3000/month</string>
+</resources>

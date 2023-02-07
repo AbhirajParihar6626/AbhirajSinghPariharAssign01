@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Abhiraj Singh Parihar
+    n01476626
+    Section: ONA-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="2" />
+
+    <item
+        android:id="@+id/rent"
+        android:title="Rent"
+        app:showAsAction="always"
+        android:orderInCategory="1" />
+    <item
+        android:id="@+id/help"
+        android:title="Help"
+        app:showAsAction="never"
+        android:orderInCategory="3" />
+
+</menu>
